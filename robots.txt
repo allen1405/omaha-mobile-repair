@@ -1,0 +1,8 @@
+# Robots.txt for Omaha Mobile Repair
+# https://omahamobilerepair.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://omahamobilerepair.com/sitemap.xml
